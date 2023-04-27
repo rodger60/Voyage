@@ -1,3 +1,9 @@
-body {
-  background-color: bisque;
+h1 {
+  text-align: center;
+}
+
+#logo_fixe {
+  position: fixed;
+  left: 10px;
+  top: 10px;
 }
